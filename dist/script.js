@@ -4,16 +4,23 @@ var cartaChunLi = {
     atributos: {
         ataque: 75,
         defesa: 76,
-        magia: 84
+        magia: 84,
+        resistencia: 85,
+        esquiva: 87,
+        armadura: 35
+        
     }
 }
 var cartaMai = {
-    nome: "Mai Shiranui",
+     nome: "Mai Shiranui",
     imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QiIFJcPZID5-Zg6fb1rFqvd5v1MnhdCLyZ8eG9kv7Q9edRORJuXK4wt5a73POfK6tas&usqp=CAU",
     atributos: {
         ataque: 70,
         defesa: 65,
-        magia: 85
+        magia: 85,
+        resistencia: 85,
+        esquiva: 86,
+        armadura: 36
     }
 }
 var cartaMorrigan = {
@@ -22,7 +29,10 @@ var cartaMorrigan = {
     atributos: {
         ataque: 69,
         defesa: 78,
-        magia: 82
+        magia: 82,
+        resistencia: 78,
+        esquiva: 80,
+        armadura: 92
     }
 }
 var cartaCaitlyn = {
@@ -31,7 +41,10 @@ var cartaCaitlyn = {
     atributos: {
         ataque: 95,
         defesa: 53,
-        magia: 25
+        magia: 25,
+        resistencia: 86,
+        esquiva: 75,
+        armadura: 45
     }
 }
 var cartaNaruto = {
@@ -40,7 +53,10 @@ var cartaNaruto = {
     atributos: {
         ataque: 88,
         defesa: 89,
-        magia: 100
+        magia: 100,
+        resistencia: 100,
+        esquiva: 99,
+        armadura: 89
     }
 }
 var cartaDrStranger = {
@@ -49,7 +65,10 @@ var cartaDrStranger = {
     atributos: {
         ataque: 65,
         defesa: 50,
-        magia: 95
+        magia: 95,
+        resistencia: 72,
+        esquiva: 76,
+        armadura: 66      
     }
 }
 var cartaBatman = {
@@ -58,7 +77,10 @@ var cartaBatman = {
     atributos: {
         ataque: 70,
         defesa: 70,
-        magia: 0
+        magia: 0,
+        resistencia: 89,
+        esquiva: 80,
+        armadura: 75
     }
 }
 var cartaMarvel = {
@@ -67,7 +89,10 @@ var cartaMarvel = {
     atributos: {
         ataque: 90,
         defesa: 80,
-        magia: 72
+        magia: 72,
+        resistencia: 93,
+        esquiva: 90,
+        armadura: 80
     }
   }
 var cartaMMaravilha = {
@@ -76,7 +101,10 @@ var cartaMMaravilha = {
     atributos: {
         ataque: 85,
         defesa: 89,
-        magia: 65
+        magia: 65,
+        resistencia: 93,
+        esquiva: 87,
+        armadura: 82
   }
 }
 var cartaGoku = {
@@ -85,7 +113,10 @@ var cartaGoku = {
     atributos: {
         ataque: 100,
         defesa: 100,
-        magia: 100
+        magia: 100,
+        resistencia: 100,
+        esquiva: 100,
+        armadura: 100
     }
 }
 var cartaHanzo = {
@@ -94,7 +125,11 @@ var cartaHanzo = {
     atributos: {
         ataque: 92,
         defesa: 68,
-        magia: 74
+        magia: 74,
+        resistencia: 84,
+        esquiva: 96,
+        armadura: 66
+      
     }
 }
 var cartaArlequina = {
@@ -103,7 +138,10 @@ var cartaArlequina = {
     atributos: {
         ataque: 59,
         defesa: 59,
-        magia: 0
+        magia: 0,
+        resistencia: 85,
+        esquiva: 79,
+        armadura: 49
     }
 }
 var cartaHulk = {
@@ -112,7 +150,10 @@ var cartaHulk = {
     atributos: {
         ataque: 98,
         defesa: 95,
-        magia: 65
+        magia: 65,
+        resistencia: 100,
+        esquiva: 80,
+        armadura: 100
     }
 }
 var cartaLeona = {
@@ -121,7 +162,10 @@ var cartaLeona = {
     atributos: {
         ataque: 69,
         defesa: 70,
-        magia: 75
+        magia: 75,
+        resistencia: 83,
+        esquiva: 89,
+        armadura: 35
     }
 }
 var cartaBlueMary = {
@@ -130,7 +174,10 @@ var cartaBlueMary = {
     atributos: {
         ataque: 69,
         defesa: 70,
-        magia: 75
+        magia: 75,
+        resistencia: 82,
+        esquiva: 89,
+        armadura: 44
     }
 }
 var cartaHiei = {
@@ -139,7 +186,10 @@ var cartaHiei = {
     atributos: {
         ataque: 93,
         defesa: 82,
-        magia: 90
+        magia: 90,
+        resistencia: 95,
+        esquiva: 95,
+        armadura: 86
     }
 }
 var cartaAang = {
@@ -148,7 +198,10 @@ var cartaAang = {
     atributos: {
         ataque: 68,
         defesa: 64,
-        magia: 76
+        magia: 76,
+        resistencia: 89,
+        esquiva: 90,
+        armadura: 48
     }
 }
 var cartaShera = {
@@ -157,7 +210,10 @@ var cartaShera = {
     atributos: {
         ataque: 96,
         defesa: 88,
-        magia: 61
+        magia: 61,
+        resistencia: 94,
+        esquiva: 88,
+        armadura: 78
     }
 }
 var cartaMukuro = {
@@ -166,7 +222,10 @@ var cartaMukuro = {
     atributos: {
         ataque: 99,
         defesa: 99,
-        magia:100
+        magia:100,
+        resistencia: 100,
+        esquiva: 99,
+        armadura: 98
     }
   
 }
@@ -176,7 +235,10 @@ var cartaShiriyu = {
     atributos: {
         ataque: 67,
         defesa: 70,
-        magia: 59
+        magia: 59,
+        resistencia: 93,
+        esquiva: 88,
+        armadura: 99
     }
 }
 var cartaShi = {
@@ -185,7 +247,10 @@ var cartaShi = {
     atributos: {
         ataque: 74,
         defesa: 62,
-        magia: 36
+        magia: 36,
+        resistencia: 84,
+        esquiva: 86,
+        armadura: 78
    }
 }
 var cartaSuperman = {
@@ -194,7 +259,10 @@ var cartaSuperman = {
     atributos: {
         ataque: 100,
         defesa: 100,
-        magia: 100
+        magia: 100,
+        resistencia: 100,
+        esquiva: 100,
+        armadura: 100
   }
 }
 var cartaPsylocke = {
@@ -203,7 +271,10 @@ var cartaPsylocke = {
     atributos: {
         ataque: 83,
         defesa: 79,
-        magia: 91
+        magia: 91,
+        resistencia: 88,
+        esquiva: 95,
+        armadura: 84
   }
 }
 var cartaSakura = {
@@ -212,13 +283,16 @@ var cartaSakura = {
     atributos: {
         ataque: 72,
         defesa: 69,
-        magia: 74
+        magia: 74,
+        resistencia: 89,
+        esquiva: 88,
+        armadura: 89
   }
 }
 var cartaMaquina
 var cartaJogador
 var cartas = [cartaChunLi, cartaMai, cartaMorrigan, cartaCaitlyn, cartaNaruto, cartaDrStranger, cartaBatman, cartaMarvel, cartaMMaravilha, cartaGoku, cartaHanzo, cartaArlequina, cartaHulk, cartaLeona, cartaBlueMary, cartaHiei, cartaAang, cartaShera, cartaMukuro, cartaShiriyu, cartaShi, cartaSuperman, cartaPsylocke, cartaSakura]
-// 0 , 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 , 21, 22, 23
+// 0 , 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 , 21, 22, 23, 24
 var jogo = []
 var pontosJogador = 0
 var pontosMaquina = 0
@@ -251,7 +325,7 @@ function sortearCarta() {
     document.getElementById('btnSortear').disabled = true
     document.getElementById('btnJogar').disabled = false
 
-    exibeCartaJogador()
+    exibeCartaJogador() 
 }
 //Faz o sorteio das cartas, exibe e remove do array a carta sorteada
 
@@ -264,7 +338,6 @@ function exibeCartaJogador() {
     for (var atributo in cartaJogador.atributos) {
         opcoesTexto += "<input type='radio' name='atributo' value='" + atributo + "'>" + atributo + " " + cartaJogador.atributos[atributo] + "<br>"
     }
-
     var html = "<div id='opcoes' class='carta-status'>"
     divCartaJogador.innerHTML = moldura + nome + html + opcoesTexto + '</div>'
 }
@@ -283,17 +356,16 @@ function obtemAtributoSelecionado() {
 function jogar() {
     var divResultado = document.getElementById("resultado")
     var atributoSelecionado = obtemAtributoSelecionado()
-
-    if (cartaJogador.atributos[atributoSelecionado] > cartaMaquina.atributos[atributoSelecionado]) {
-        htmlResultado = '<div id="resultado">Venceu</div>' 
+       if (cartaJogador.atributos[atributoSelecionado] > cartaMaquina.atributos[atributoSelecionado]) {
+        htmlResultado = '<div id="resultado">Seu personagem venceu!!</div>' 
         pontosJogador++
     } else if (cartaJogador.atributos[atributoSelecionado] < cartaMaquina.atributos[atributoSelecionado]) {
-        htmlResultado = '<div id="resultado">Perdeu</div>'
+        htmlResultado = '<div id="resultado">Seu personagem perdeu!!</div>'
         pontosMaquina++
     } else {
-        htmlResultado = '<div id="resultado">Empatou</div>'
+        htmlResultado = '<div id="resultado">Seu personagem empatou!!</div>'
     }
-    divResultado.innerHTML = htmlResultado
+    divResultado.innerHTML = htmlResultado  
     document.getElementById('btnJogar').disabled = true
     document.getElementById('rec').disabled = false
   //Compara a carta do jogador com a carta da maquina e acrescenta os pontos ao vencedor imprimindo na tela o resultado
@@ -303,11 +375,11 @@ function jogar() {
     function resultadoFinal() {
       var fim = document.getElementById('resultadoFinal')
       if (jogo.length == 0 && pontosJogador > pontosMaquina){
-      fim.innerHTML = '<div id="resultadoFinal">Vitória</div>'
+      fim.innerHTML = '<div id="resultadoFinal">Sua equipe foi a vencedora</div>'
     } else if  (jogo.length == 0 && pontosJogador < pontosMaquina){
-      fim.innerHTML = '<div id="resultadoFinal">Derrota</div>'
+      fim.innerHTML = '<div id="resultadoFinal">Sua equipe foi derrotada</div>'
     } else if (jogo.length == 0 && pontosJogador == pontosMaquina){
-      fim.innerHTML = '<div id="resultadoFinal">Empate</div>'
+      fim.innerHTML = '<div id="resultadoFinal">Sua equipe empatou</div>'
     } else {
     document.getElementById('btnProximaRodada').disabled = false
         }
@@ -326,7 +398,7 @@ function exibeCartaMaquina() {
     var divCartaMaquina = document.getElementById("carta-maquina")
     var moldura = '<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent.png" style=" width: inherit; height: inherit; position: absolute;">';
     divCartaMaquina.style.backgroundImage = `url(${cartaMaquina.imagem})`
-    var nome = `<p class="carta-subtitle">${cartaMaquina.nome}</p>`
+    var nome = `<p class="carta-subtitle1">${cartaMaquina.nome}</p>`
     var opcoesTexto = ""
 
     for (var atributo in cartaMaquina.atributos) {
@@ -339,12 +411,14 @@ function exibeCartaMaquina() {
 //Adiciona a carta sorteada da máquina no array a moldura e nome da carta 
 
 function proximaRodada(){
-var divCartas = document.getElementById('cartas')
-divCartas.innerHTML = `<div id="carta-jogador" class="carta"></div> <div id="carta-maquina" class="carta"></div>`
-document.getElementById('btnSortear').disabled  = false
-document.getElementById('btnJogar').disabled = true
-document.getElementById('btnProximaRodada').disabled = true
-}
+  var divCartas = document.getElementById('cartas')
+  var divResultado = document.getElementById('resultado') 
+  divCartas.innerHTML = `<div id="carta-jogador" class="carta"></div> <div id="carta-maquina" class="carta"></div>`
+  document.getElementById('btnSortear').disabled  = false
+  document.getElementById('btnJogar').disabled = true
+  document.getElementById('btnProximaRodada').disabled = true
+  divResultado.innerHTML = ""  
+  }
 //Habilita o botão de próxima rodada 
 
 recomeco()
@@ -364,7 +438,7 @@ function recomeco() {
    var fim = document.getElementById('resultadoFinal')  
        fim.innerHTML = ""
    var divResultado = document.getElementById("resultado")
-       htmlResultado = '<div id="resultado">Vamos começar uma partida</div>'
+       htmlResultado = '<div id="resultado">Vamos começar a partida</div></div>'
        divResultado.innerHTML = htmlResultado
    var divCartaJogador = document.getElementById("carta-jogador")
    var divCartaMaquina = document.getElementById("carta-maquina")

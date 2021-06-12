@@ -1,22 +1,5 @@
-# Super Trunfo 
-**HTML**
--aprendendo o comando disabled = true ou false
+# Super Trunfo - Dia 9
 
-**CSS**
--usando o id & classes
--usando rem e % invés de px
-
-**JavaScript**
--utilização de array
--function
--operadores lógicos 
--variaveis
--DOM
--operadores relacionais
--comandos de repetição
--comandos aninhados
-
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/j27mendes/pen/qBrYGXX](https://codepen.io/j27mendes/pen/qBrYGXX).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/j27mendes/pen/KKWRLvP](https://codepen.io/j27mendes/pen/KKWRLvP).
 
 
